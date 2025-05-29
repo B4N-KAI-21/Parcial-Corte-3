@@ -1,4 +1,4 @@
-# Proyecto-arcial-Corte-3
+# Proyecto-Parcial-Corte-3
 
 ## Integrante
 
