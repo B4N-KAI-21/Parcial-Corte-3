@@ -120,4 +120,7 @@ La función `main()` orquesta el flujo principal del juego.
     * Si el Pokemon del jugador es derrotado, el juego termina.
 * **Condición de victoria final:** Si el jugador logra capturar a los tres Pokemon rivales, se muestra un mensaje de felicitación.
 
+### `Herramientas de apoyo`
+
+* En este código se implementan funciones como rand() perteneciente a la librería <stdlib.h> con apoyo de IA se logró comprender su uso ya que genera un número entero aleatorio. Este número se almacena en la variable chance que para el código sería llamado `intentarCaptura`. Luego, chance se compara con una probabilidad calculada (que representa un porcentaje). Si el número aleatorio generado (chance) es menor que el valor de probabilidad, se considera que la captura es exitosa. Esto simula la incertidumbre de atrapar un Pokémon.
 ---
